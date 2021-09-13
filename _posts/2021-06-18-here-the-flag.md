@@ -8,4 +8,4 @@ tags:
   - update
 ---
 
-Here's the flag: HTX{tw1tt3R_bR33Ds_Negl1g3ncE}
+Here's the flag: HHH{insert_flag_here}
