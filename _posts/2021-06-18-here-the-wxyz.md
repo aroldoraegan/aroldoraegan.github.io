@@ -8,4 +8,4 @@ tags:
   - update
 ---
 
-Here's the abcd: xyz{insert_abcd_here}
+Here's the abcd: replace_this_text
