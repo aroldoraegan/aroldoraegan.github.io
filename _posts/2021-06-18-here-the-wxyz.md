@@ -1,11 +1,11 @@
 ---
-title: "Here's the abcd!"
+title: "Here's the flag!"
 date: 2021-06-18T15:34:30-04:00
 categories:
   - blog
 tags:
-  - abcd
+  - flag
   - update
 ---
 
-Here's the abcd: replace_this_text
+Here's the flag: htx{tw1tt3R_bR33Ds_Negl1g3ncE}
